@@ -19,14 +19,17 @@ __INSTALL THESE PACKAGES BEFOREHAND__
 __EXECUTE THE BELOW COMMANDS ONE BY ONE__
 _SuperUser permissions are required_
 
-`git clone https://github.com/zim0369/functional`
+- `git clone https://github.com/zim0369/functional`
 
-`cd functional`
+- `cd functional`
 
-`chmod +rwx installer.sh`
+- `chmod +rwx installer.sh`
 
-`./installer.sh`
+- `./installer.sh`
 
 
+### USAGE
 
-_After the installation remove the cloned directory_
+- After the installation remove the cloned directory
+
+- Create a shortcut with command `functional` or `/usr/local/bin/functional`
