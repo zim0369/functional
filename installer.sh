@@ -1,4 +1,4 @@
 #!/bin/bash
 
-chmod +rwx functional toggle_touchpad
-sudo mv functional toggle_touchpad /usr/local/bin/
+chmod +rwx functional functionscript toggle_touchpad
+sudo mv functional functionscript toggle_touchpad /usr/local/bin/

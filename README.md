@@ -10,7 +10,7 @@ __INSTALL THESE PACKAGES BEFOREHAND__
 
 - `xterm`
 
-- `amixer`(Check if already installed `which amixer`)
+- `amixer`(Check if already installed $`which amixer`)
 
 - `brightnessctl`
 
