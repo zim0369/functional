@@ -29,4 +29,4 @@ _SuperUser permissions are required_
 
 
 
-_After the installation you can remove the cloned directory_
+_After the installation remove the cloned directory_
