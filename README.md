@@ -1,6 +1,6 @@
 # functional
 
-### Script to use function keys with ease
+### Script to save the effort of using media keys
 
 #### Can be used to change volume, brightness, keyboard backlight and toggle touchpad : )
 
